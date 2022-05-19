@@ -1,0 +1,17 @@
+@charset 'utf-8';
+
+table, th, td   {
+    text-align: center;
+}
+th{
+    background-color: #ccc;
+    border: 2px solid blue !important ;
+}
+/* .container{
+    margin: 0;
+    width: 1000px;
+} */
+/* div{text-align: center;} */
+ul{
+    list-style: none;
+}

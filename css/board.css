@@ -1,0 +1,12 @@
+@charset 'utf-8';
+
+table, th, tr, td{
+    border: 1px solid red !important;
+}
+th{
+    background-color: #ccc;
+}
+th, td{
+    text-align: center;
+    vertical-align: middle !important;
+}
